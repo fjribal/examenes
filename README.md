@@ -1,2 +1,2 @@
 # examenes
-examanes fade provisionales
+examenes fade provisionales
