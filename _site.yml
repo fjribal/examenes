@@ -17,6 +17,9 @@ navbar:
       href: index_ade_inf.html
     - text: "Todo FADE"
       href: index_fade.html
+  right:
+    - text: "Procedimiento"
+      href: procedimiento.jpg
 output:
   html_document:
     theme: cosmo
