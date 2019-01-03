@@ -1,0 +1,28 @@
+---
+---
+
+
+## Cuatrimestre A
+
+FADE [Semana A1](Examenes_FADE_semana_A1.html)
+
+FADE [Semana A2](Examenes_FADE_semana_A2.html)
+
+FADE [Semana A3](Examenes_FADE_semana_A3.html)
+
+## Cuatrimestre B
+
+FADE [Semana B1](Examenes_FADE_semana_B1.html)
+
+FADE [Semana B2](Examenes_FADE_semana_B2.html)
+
+FADE [Semana B3](Examenes_FADE_semana_B3.html)
+
+
+## Cuatrimestre B 4º CURSO
+
+FADE [Semana B2](Examenes_FADE_semana_4B2.html)
+
+FADE [Semana B3](Examenes_FADE_semana_4B3.html)
+
+

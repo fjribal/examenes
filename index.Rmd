@@ -1,0 +1,36 @@
+---
+title: "Fechas de Exámenes Provisionales"
+---
+
+
+ 
+## Grados FADE. Curso 2018-19. Prueba
+
+
+Fecha versión calendario de exámenes: **`r format(Sys.Date(), format = "%d/%m/%y")`**
+
+La página incluye las fechas de examen por grado, curso y semana de evaluación. 
+
+Codificación:
+
+    - Semana A1: semana de evaluación a mitad del primer cuatrimestre
+
+    - Semana A2: semana de evaluación a final del primer cuatrimetre
+
+    - Semana A3: semana de evaluación de recuperación del primer cuatrimestre en enero
+
+    - Semana B1: semana de evaluación a mitad del segundo cuatrimestre
+
+    - Semana B2: semana de evaluación a final del segundo cuatrimestre
+
+    - Semana B3: semana de evaluación de recuperación del segundo cuatrimestre en junio
+
+Adicionalmente:
+
+    - Semana 4B2 o 5B2: semana de evaluación a final del segundo cuatrimestre (último año) 
+
+    - Semana 4B3 o 5B3: semana de evaluación de recuperación del segundo cuatrimestre en mayo (último año)
+ 
+
+Asimismo se incluyen las fechas  los exámenes por semanas para el conjunto de la facultad así como el calendario completo.
+

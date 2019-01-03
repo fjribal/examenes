@@ -1,0 +1,23 @@
+name: "ExamenesFADE"
+output_dir: "."
+navbar:
+  title: "Exámenes FADE"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "GAP"
+      href: index_gap.html
+    - text: "ADE"
+      href: index_ade.html
+    - text: "ADE+TELECO"
+      href: index_ade_tel.html
+    - text: "ADE+INFOR"
+      href: index_ade_inf.html
+    - text: "Todo FADE"
+      href: index_fade.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
